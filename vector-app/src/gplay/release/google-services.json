@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "719999439459",
+    "firebase_url": "https://bigstarconnect-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bigstarconnect",
+    "storage_bucket": "bigstarconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719999439459:android:e0c4d6e94cdacac1a5e56",
+        "android_client_info": {
+          "package_name": "com.bigstar.real"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719999439459-4p5li0can1sabkq1lppjq6ne9m2e0fu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigstar.real",
+            "certificate_hash": "30015d46f940083a8ac2c195d85cefa0ce2e7143"
+          }
+        },
+        {
+          "client_id": "719999439459-615gik697h12b61tmt5jfc37lak2ster.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigstar.real",
+            "certificate_hash": "8f4d4088884658201e195c42494b9722d5154e03"
+          }
+        },
+        {
+          "client_id": "719999439459-6tm8n7s7p4vuac8pj1ce11ih8f1b4oe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAITR3Qis94tzt-BNWjF4oS0bRpTNE9bkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719999439459-6tm8n7s7p4vuac8pj1ce11ih8f1b4oe1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719999439459-0r5cpka1k5qp40sdrsvc3qcp35b5d147.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kz.bsmessenger.kz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
